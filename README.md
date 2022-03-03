@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+[link to apk](./release/app-release.apk)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
